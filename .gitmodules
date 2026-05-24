@@ -1,0 +1,3 @@
+[submodule "CineRecomender"]
+	path = CineRecomender
+	url = https://github.com/Daniel20051601/CineRecomender.git
